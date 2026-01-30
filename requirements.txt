@@ -7,3 +7,4 @@ seaborn
 matplotlib
 plotly
 scikit-learn
+torch
