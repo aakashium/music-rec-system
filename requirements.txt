@@ -8,3 +8,4 @@ matplotlib
 plotly
 scikit-learn
 torch
+streamlit
